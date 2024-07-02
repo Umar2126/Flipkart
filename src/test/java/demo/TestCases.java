@@ -33,6 +33,7 @@ public class TestCases {
      */
     @BeforeTest
     public void startBrowser() {
+        
         // Configure logging properties
         System.setProperty("java.util.logging.config.file", "logging.properties");
 
